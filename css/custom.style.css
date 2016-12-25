@@ -1,0 +1,16 @@
+.navbar-header {
+  display:block;
+  clear: all;
+  float: none;
+  background-color: #111;
+  width: 100%;
+  margin: 0;
+}
+.navbar-inverse .navbar-nav>li>a{
+	font-size: .8em;
+	padding-top: 10px;
+	padding-bottom: 10px
+}
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}

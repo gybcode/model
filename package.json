@@ -1,0 +1,31 @@
+{
+  "name": "modelling_options",
+  "version": "0.0.0",
+  "description": "Creating the models (in branches) to demostrate usable/available/implementable techniques for front end visualization of collected data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gybcode/model.git"
+  },
+  "keywords": [
+    "front",
+    "end",
+    "development",
+    "frameworks"
+  ],
+  "author": "gyorfi.balogh@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gybcode/model/issues"
+  },
+  "homepage": "https://github.com/gybcode/model#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "gulp": "^3.9.1",
+    "gulp-inject-string": "^1.1.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
